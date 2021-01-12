@@ -1,0 +1,6 @@
+[submodule "delake-backend"]
+	path = delake-backend
+	url = git@github.com:AskBid/delake-backend.git
+[submodule "delake-frontend"]
+	path = delake-frontend
+	url = git@github.com:AskBid/delake-frontend.git
